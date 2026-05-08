@@ -15,3 +15,4 @@ Compared listing characteristics between Berlin and Munich
 Files
 
 Airbnb_Berlin_Munich_Analysis.ipynb: Main analysis notebook
+Live dashboard: https://kpanwar23.github.io/airbnb-berlin-munich-analysis/Airbnb_Dashboard.html
